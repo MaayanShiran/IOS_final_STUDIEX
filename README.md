@@ -26,6 +26,10 @@ see upcoming exams hours-to-study:<br>
 video demo:<br>
 
 
+https://github.com/MaayanShiran/IOS_final_STUDIEX/assets/95546841/18eac2b4-6d06-45a1-808d-2db03c2bbcb5
+
+
+
 
 
 

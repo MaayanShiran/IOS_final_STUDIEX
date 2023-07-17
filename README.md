@@ -11,14 +11,14 @@ An exam time managment appliction for students.
 
 * Using ***Firebase Database by Google*** - contains all of the application data: users that have logged-in, user's exams<br />
 * Using ***Authentication by Google*** - in order of logging-in to the application<br />
-* Using ***SwiftUI & Xcode*** - this application was programmed by swiftUI and Xcode inviroment
+* Using ***SwiftUI & Xcode*** - this application was programmed by swiftUI and Xcode enviroment
 
 project screenshots:
 
 ##### sign-up:<br>
 <img src="https://github.com/MaayanShiran/IOS_final_STUDIEX/assets/95546841/4871fef4-b633-4add-aa66-383e229fdaae" alt="WhatsApp Image 2023-07-16 at 23 46 08" width="200" />
 <br>
-##### sign-in:<br>
+__sign-in:__<br>
 <img src="https://github.com/MaayanShiran/IOS_final_STUDIEX/assets/95546841/936d5c03-3b5c-4e6a-9596-919bc40a2e84" alt="WhatsApp Image 2023-07-16 at 23 42 19" width="200" />
 <br>
 ##### add new exam:<br>

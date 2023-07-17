@@ -1,4 +1,4 @@
-![image](https://github.com/MaayanShiran/IOS_final_STUDIEX/assets/95546841/1c1870d3-bdb8-4e2e-bb2a-0222b330dc77)# IOS_final_STUDIEX
+# IOS_final_STUDIEX
 
 __Final Project:__
 

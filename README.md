@@ -4,7 +4,7 @@ __Final Project:__
 
 An exam time managment appliction for students.
 
-#Google Authetication (used pre-inserted phone numbers for testing, otherwise - in some point it will block the number) <br />
+#Google Authentication (used pre-inserted phone numbers for testing, otherwise - in some point it will block the number) <br />
 #Google Firebase Database<br />
 #Menu with 3 options: Add customized exam's details and preferences, See how many hours you should learn for the upcoming tests, When feeling down or not-in-a-learning mood - see some insporation <br />
 
